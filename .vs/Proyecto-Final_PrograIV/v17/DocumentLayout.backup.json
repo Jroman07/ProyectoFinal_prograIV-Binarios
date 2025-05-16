@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|c:\\documentos\\programaci\u00F3n iv\\proyectofinal\\proyecto-final_prograiv\\proyecto-final_prograiv\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|solutionrelative:proyecto-final_prograiv\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|c:\\documentos\\programaci\u00F3n iv\\proyectofinal\\proyecto-final_prograiv\\proyecto-final_prograiv\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|solutionrelative:proyecto-final_prograiv\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|c:\\documentos\\programaci\u00F3n iv\\proyectofinal\\proyecto-final_prograiv\\proyecto-final_prograiv\\services\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|solutionrelative:proyecto-final_prograiv\\services\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|c:\\documentos\\programaci\u00F3n iv\\proyectofinal\\proyecto-final_prograiv\\proyecto-final_prograiv\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|solutionrelative:proyecto-final_prograiv\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|c:\\documentos\\programaci\u00F3n iv\\proyectofinal\\proyecto-final_prograiv\\proyecto-final_prograiv\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|solutionrelative:proyecto-final_prograiv\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|c:\\documentos\\programaci\u00F3n iv\\proyectofinal\\proyecto-final_prograiv\\proyecto-final_prograiv\\finalprojectdatabase\\finalprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99327567-D6FC-4C5A-96FC-AD024088936D}|Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV.csproj|solutionrelative:proyecto-final_prograiv\\finalprojectdatabase\\finalprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\Services\\CandidateService.cs",
+              "RelativeDocumentMoniker": "Proyecto-Final_PrograIV\\Services\\CandidateService.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\Services\\CandidateService.cs",
+              "RelativeToolTip": "Proyecto-Final_PrograIV\\Services\\CandidateService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:27:30.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICandidateService.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\Services\\ICandidateService.cs",
+              "RelativeDocumentMoniker": "Proyecto-Final_PrograIV\\Services\\ICandidateService.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\Services\\ICandidateService.cs",
+              "RelativeToolTip": "Proyecto-Final_PrograIV\\Services\\ICandidateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:30:41.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\Entities\\Offer.cs",
+              "RelativeDocumentMoniker": "Proyecto-Final_PrograIV\\Entities\\Offer.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\Entities\\Offer.cs",
+              "RelativeToolTip": "Proyecto-Final_PrograIV\\Entities\\Offer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:03:37.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "Proyecto-Final_PrograIV\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\Entities\\Candidate.cs",
+              "RelativeToolTip": "Proyecto-Final_PrograIV\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:02:23.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "Proyecto-Final_PrograIV\\Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "Proyecto-Final_PrograIV\\Controllers\\CandidatesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:42:36.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinalProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\FinalProjectDataBase\\FinalProjectDbContext.cs",
+              "RelativeDocumentMoniker": "Proyecto-Final_PrograIV\\FinalProjectDataBase\\FinalProjectDbContext.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n IV\\ProyectoFinal\\Proyecto-Final_PrograIV\\Proyecto-Final_PrograIV\\FinalProjectDataBase\\FinalProjectDbContext.cs",
+              "RelativeToolTip": "Proyecto-Final_PrograIV\\FinalProjectDataBase\\FinalProjectDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:09:02.896Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
