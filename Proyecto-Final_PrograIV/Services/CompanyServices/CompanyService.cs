@@ -1,11 +1,10 @@
 ﻿using Proyecto_Final_PrograIV.Entities;
 using Proyecto_Final_PrograIV.FinalProjectDataBase;
 
-namespace Proyecto_Final_PrograIV.Services
+namespace Proyecto_Final_PrograIV.Services.CompanyService
 {
-    public class CompanyService : ICompanyService
+    public class CompanyService:ICompanyService
     {
-
         private readonly FinalProjectDbContext _dbContext;
 
         public CompanyService(FinalProjectDbContext dbContext)
@@ -75,4 +74,5 @@ namespace Proyecto_Final_PrograIV.Services
             }
         }
     }
+}
 }

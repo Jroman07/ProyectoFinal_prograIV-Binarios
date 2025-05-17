@@ -1,6 +1,6 @@
 ﻿using Proyecto_Final_PrograIV.Entities;
 
-namespace Proyecto_Final_PrograIV.Services
+namespace Proyecto_Final_PrograIV.Services.CandidateServices
 {
     public interface ICandidateService
     {
