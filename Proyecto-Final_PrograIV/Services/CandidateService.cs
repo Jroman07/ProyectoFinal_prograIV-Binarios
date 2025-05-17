@@ -35,6 +35,7 @@ namespace Proyecto_Final_PrograIV.Services
             }
         }
 
+
         public List<Candidate> GetAllCandidates()
         {
             return _dbContext.Candidates.ToList();
@@ -42,11 +43,17 @@ namespace Proyecto_Final_PrograIV.Services
 
         public Candidate GetCandidateById(int Id)
         {
-            return _dbContext.Candidates.Find(Id);
+            Candidate candidate = _dbContext.Candidates.Find(Id);
+            if (candidate == null)
+            {
+                throw new Exception("Candidate not found");
+            }
+            return candidate;
         }
 
-        public List<Candidate> GetCandidatesByName(string? name)
+        public List<Candidate> GetCandidatesByName(string name)
         {
+           
             if (string.IsNullOrWhiteSpace(name))
             {
                 return _dbContext.Candidates.ToList();

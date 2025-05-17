@@ -4,7 +4,6 @@
     {
         public int CandidateId { get; set; }
         public Candidate Candidate { get; set; }
-
         public int OfferId { get; set; }
         public Offer Offer { get; set; }
 
