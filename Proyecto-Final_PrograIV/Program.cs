@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Proyecto_Final_PrograIV.FinalProjectDataBase;
 using Proyecto_Final_PrograIV.Services;
+using Proyecto_Final_PrograIV.Services.CandidateServices;
+using Proyecto_Final_PrograIV.Services.CompanyService;
 using System.Text;
 
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
