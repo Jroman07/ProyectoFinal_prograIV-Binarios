@@ -33,7 +33,7 @@ namespace Proyecto_Final_PrograIV.Services.CompanyService
             }
         }
 
-        public List<Company> GetAllCompany()
+        public List<Company> GetAllCompanies()
         {
             return _dbContext.Companies.ToList();
         }
@@ -74,5 +74,4 @@ namespace Proyecto_Final_PrograIV.Services.CompanyService
             }
         }
     }
-}
 }

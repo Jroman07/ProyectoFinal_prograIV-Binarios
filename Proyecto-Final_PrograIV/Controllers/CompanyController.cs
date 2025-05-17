@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Proyecto_Final_PrograIV.Entities;
 using Proyecto_Final_PrograIV.Services;
+using Proyecto_Final_PrograIV.Services.CompanyService;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -18,7 +19,7 @@ namespace Proyecto_Final_PrograIV.Controllers
         [HttpGet]
         public IEnumerable<Company> Get()
         {
-            return _companyService.GetAllCompany();
+            return _companyService.GetAllCompanies();
         }
 
         // GET api/<CompanyController>/5
